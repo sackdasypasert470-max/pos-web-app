@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "ກ້ອງໂທລະສັບ (Phone Case)",
+    "price": 50000,
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&q=80",
+    "description": "ເຄື່ອງປົວປ້ອງໂທລະສັບ"
+  },
+  {
+    "id": "2",
+    "title": "ສິນຄ້າຕົວຢ່າງ (Sample Product)",
+    "price": 120000,
+    "image": "https://images.unsplash.com/photo-1606813909063-7f5e0d3c3d3b?w=800&q=80",
+    "description": "ລາຍລະອຽດສັ້ນ"
+  }
+]
